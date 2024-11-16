@@ -1,0 +1,7 @@
+command to add files to the staging area
+
+if you want to add a specific file
+git add <file-name>
+
+if you want to add everything in the folder my_project
+git add .
