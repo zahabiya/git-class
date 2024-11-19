@@ -6,3 +6,5 @@ git commit -m "added file.txt"
 
 c0-> c1
 new commit in feature
+
+adding c6 in feature
