@@ -1,0 +1,4 @@
+Hello. Welcome to Git lecture
+
+
+git commit -m "added file.txt"

@@ -5,3 +5,16 @@ git add <file-name>
 
 if you want to add everything in the folder my_project
 git add .
+
+Alok is our instructor for Backend Project Module
+
+===========
+git add
+git commit
+git init
+git log
+git status
+git --version
+
+
+Funfact:
