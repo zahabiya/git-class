@@ -2,3 +2,7 @@ Hello. Welcome to Git lecture
 
 
 git commit -m "added file.txt"
+
+
+c0-> c1
+new commit in feature
