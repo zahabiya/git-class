@@ -4,3 +4,4 @@ Hello. Welcome to Git lecture
 git commit -m "added file.txt"
 
 new commit in main branch
+c4 in main
