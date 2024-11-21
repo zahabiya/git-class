@@ -2,7 +2,7 @@ changes done by apoorva
 This is a change by guru
 This change is done by Sagar Shiroya.
 command to add files to the staging area
-
+hello chnages done by yash
 if you want to add a specific file
 git add <file-name>
 
